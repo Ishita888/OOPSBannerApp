@@ -1,13 +1,21 @@
+# VS Code
 .vscode/
+
+# Compiled files
 *.class
 *.jar
 *.log
+
+# Mac system files
 .DS_Store
-*.iml
+
+# IntelliJ
 .idea/
+*.iml
+
+# Build folders
 target/
 bin/
 out/
 build/
 dist/
-
